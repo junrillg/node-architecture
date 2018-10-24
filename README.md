@@ -1,7 +1,4 @@
-# where-for-lunch
-![where for lunch](https://reactiongifs.me/wp-content/uploads/2013/12/om-nom-nom-nom-chipmunk.gif)
 
-Decide a lunch place for you!
 ## Getting Setup
 #### Download [Node v8+](https://nodejs.org/en/download/) or install by [NVM](https://github.com/creationix/nvm#installation)
 
